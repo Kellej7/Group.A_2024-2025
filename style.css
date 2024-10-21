@@ -1,0 +1,12 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+
+#Header{
+    color:aqua;
+    width:0px;
+    margin: 5%;
+    background-color:bisque;
+}
